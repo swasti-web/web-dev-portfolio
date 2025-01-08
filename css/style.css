@@ -12,6 +12,9 @@
 .secondary-bg{
     background-color: #FFF8F3;
 }
+.text-center{
+    text-align: center;
+}
 .btn-primary{
     background-color: #FD6E0A;
     color: #fff;
