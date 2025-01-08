@@ -9,6 +9,9 @@
 .secondary-color{
     color: #474747;
 }
+.secondary-bg{
+    background-color: #FFF8F3;
+}
 .btn-primary{
     background-color: #FD6E0A;
     color: #fff;
@@ -19,6 +22,18 @@
     border: none;
     border-radius: 5px;
     cursor: pointer;
+}
+.section-title{
+    font-size: 37px;
+    font-weight: 700;
+}
+.section-description{
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 29px;
+}
+.dark-1{
+    color: #181818;
 }
 .dark-3{
     color: #757575;
@@ -68,4 +83,31 @@ nav ul li a{
 .hero-text p{
     font-size: 19px;
     font-weight: 400;
+}
+main{
+    max-width: 1210px;
+    margin: 0 auto;
+}
+.about-us{
+    margin-top: 138px;
+    border-radius: 10px;
+    padding: 139px 165px;
+    text-align: center;
+}
+.about-items{
+    display: flex;
+    justify-content: space-around;
+}
+.about-item{}
+.item-title{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 29px;
+}
+.item-description{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 21px;
+    font-weight: 700;
+    line-height: 29px;
 }
