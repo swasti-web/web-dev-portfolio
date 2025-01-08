@@ -103,7 +103,6 @@ main section{
     display: flex;
     justify-content: space-around;
 }
-.about-item{}
 .item-title{
     font-family: 'Open Sans', sans-serif;
     font-size: 21px;
@@ -151,8 +150,6 @@ footer{
     font-weight: 400;
     line-height: 29px;
 }
-.social-icons{}
-.social-icons img{}
 footer input[type="text"]{
     width: 100%;
     padding: 19px 37px;
